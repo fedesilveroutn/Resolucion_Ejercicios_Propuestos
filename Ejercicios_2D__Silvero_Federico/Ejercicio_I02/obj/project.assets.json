@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Fede\\Documents\\Visual Studio 2022\\Projects\\UTN\\Ejercicios_2D__Silvero_Federico\\Ejercicio_I02\\Ejercicio_I02.csproj",
+      "projectUniqueName": "C:\\Users\\Fede\\Documents\\Visual Studio 2022\\Projects\\UTN\\Resolucion_Ejercicios_Propuestos\\Ejercicios_2D__Silvero_Federico\\Ejercicio_I02\\Ejercicio_I02.csproj",
       "projectName": "Ejercicio_I02",
-      "projectPath": "C:\\Users\\Fede\\Documents\\Visual Studio 2022\\Projects\\UTN\\Ejercicios_2D__Silvero_Federico\\Ejercicio_I02\\Ejercicio_I02.csproj",
+      "projectPath": "C:\\Users\\Fede\\Documents\\Visual Studio 2022\\Projects\\UTN\\Resolucion_Ejercicios_Propuestos\\Ejercicios_2D__Silvero_Federico\\Ejercicio_I02\\Ejercicio_I02.csproj",
       "packagesPath": "C:\\Users\\Fede\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Fede\\Documents\\Visual Studio 2022\\Projects\\UTN\\Ejercicios_2D__Silvero_Federico\\Ejercicio_I02\\obj\\",
+      "outputPath": "C:\\Users\\Fede\\Documents\\Visual Studio 2022\\Projects\\UTN\\Resolucion_Ejercicios_Propuestos\\Ejercicios_2D__Silvero_Federico\\Ejercicio_I02\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Fede\\AppData\\Roaming\\NuGet\\NuGet.Config",

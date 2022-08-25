@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Fede\\Documents\\Visual Studio 2022\\Projects\\UTN\\Ejercicios_2D__Silvero_Federico\\Ejercicio_I01\\Ejercicio_I01.csproj": {}
+    "C:\\Users\\Fede\\Documents\\Visual Studio 2022\\Projects\\UTN\\Resolucion_Ejercicios_Propuestos\\Ejercicios_2D__Silvero_Federico\\Ejercicio_I01\\Ejercicio_I01.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Fede\\Documents\\Visual Studio 2022\\Projects\\UTN\\Ejercicios_2D__Silvero_Federico\\Ejercicio_I01\\Ejercicio_I01.csproj": {
+    "C:\\Users\\Fede\\Documents\\Visual Studio 2022\\Projects\\UTN\\Resolucion_Ejercicios_Propuestos\\Ejercicios_2D__Silvero_Federico\\Ejercicio_I01\\Ejercicio_I01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Fede\\Documents\\Visual Studio 2022\\Projects\\UTN\\Ejercicios_2D__Silvero_Federico\\Ejercicio_I01\\Ejercicio_I01.csproj",
+        "projectUniqueName": "C:\\Users\\Fede\\Documents\\Visual Studio 2022\\Projects\\UTN\\Resolucion_Ejercicios_Propuestos\\Ejercicios_2D__Silvero_Federico\\Ejercicio_I01\\Ejercicio_I01.csproj",
         "projectName": "Ejercicio_I01",
-        "projectPath": "C:\\Users\\Fede\\Documents\\Visual Studio 2022\\Projects\\UTN\\Ejercicios_2D__Silvero_Federico\\Ejercicio_I01\\Ejercicio_I01.csproj",
+        "projectPath": "C:\\Users\\Fede\\Documents\\Visual Studio 2022\\Projects\\UTN\\Resolucion_Ejercicios_Propuestos\\Ejercicios_2D__Silvero_Federico\\Ejercicio_I01\\Ejercicio_I01.csproj",
         "packagesPath": "C:\\Users\\Fede\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Fede\\Documents\\Visual Studio 2022\\Projects\\UTN\\Ejercicios_2D__Silvero_Federico\\Ejercicio_I01\\obj\\",
+        "outputPath": "C:\\Users\\Fede\\Documents\\Visual Studio 2022\\Projects\\UTN\\Resolucion_Ejercicios_Propuestos\\Ejercicios_2D__Silvero_Federico\\Ejercicio_I01\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Fede\\AppData\\Roaming\\NuGet\\NuGet.Config",
